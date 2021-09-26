@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm Aditi Bhatt</h1>
 <h3 align="center">I'm a Student, Developer, Learner!</h3>
 
-I'm an aspiring Developer based in India. I love programming and am interested to create the best and accessible web applications with enhanced user experience
+I'm an aspiring Developer based in India. I love programming and am interested in cloud-native applications and cyber security space.
 
 
 👋 Hi, I’m, I am Aditi Bhatt <br>

@@ -40,7 +40,7 @@ I'm an aspiring Developer based in India. I love programming and am interested t
     </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daditibhatt32&layout=compact&theme=midnight-purple" alt="aditibhatt32" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditibhatt32&layout=compact&theme=midnight-purple" alt="aditibhatt32" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditibhatt32&show_icons=true&theme=midnight-purple" alt="aditibhatt32" /></p>
 
 

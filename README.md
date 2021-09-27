@@ -4,7 +4,6 @@
 I'm an aspiring Developer based in India. I love programming and am interested in cloud-native applications and cyber security space.
 
 
-👋 Hi, I’m, I am Aditi Bhatt <br>
 👀 I’m interested : in Cloud Computing, DevOps and Web development. <br>
 🌱 I’m currently: learning Linux, Cloud Computing and Python <br>
 👯 I’m looking to collaborate: on Python-related projects. <br>

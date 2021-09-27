@@ -13,9 +13,6 @@ I'm an aspiring Developer based in India. I love programming and am interested i
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
-    <a href="https://www.w3.org/html/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></code> 
-    </a>
     <a href="https://www.docker.com/" target="_blank" >
     <img src="https://github.com/aditibhatt32/aditibhatt32/blob/main/docker.gif" height="40" />&nbsp;&nbsp;
     <img src="https://github.com/aditibhatt32/aditibhatt32/blob/main/python.gif" height="40" />&nbsp;&nbsp;

@@ -15,7 +15,10 @@ I'm an aspiring Developer based in India. I love programming and am interested i
 <p align="left">  
     <a href="https://www.w3.org/html/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></code> 
-    </a>  
+    </a>
+    <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://github.com/aditibhatt32/aditibhatt32/blob/main/docker.gif" height="40" />&nbsp;&nbsp;
+    <img src="https://github.com/aditibhatt32/aditibhatt32/blob/main/python.gif" height="40" />&nbsp;&nbsp;
     <a href="https://www.w3schools.com/css/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></code>  
     </a> 
